@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Revelator Updates and Changes',
+  title: 'What’s New?',
   author: 'Revelator',
   email: 'help@revelator.com',
   link: 'https://updates.revelator.pro',
