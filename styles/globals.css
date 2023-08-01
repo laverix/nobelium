@@ -1,6 +1,162 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Graphik */
+
+@font-face {
+  font-family: 'Graphik Web';
+  src: url('/fonts/Graphik-Light.woff2') format('woff2'),
+  url('/fonts/Graphik-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik Web';
+  src: url('/fonts/Graphik-Regular.woff2') format('woff2'),
+  url('/fonts/Graphik-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik Web';
+  src: url('/fonts/Graphik-Medium.woff2') format('woff2'),
+  url('/fonts/Graphik-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik LC Web';
+  src: url('/fonts/Graphik-Light-Cy-Web.woff2') format('woff2'),
+  url('/fonts/Graphik-Light-Cy-Web.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik LC Web';
+  src: url('/fonts/Graphik-Regular-Cy-Web.woff2') format('woff2'),
+  url('/fonts/Graphik-Regular-Cy-Web.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik LC Web';
+  src: url('/fonts/Graphik-Medium-Cy-Web.woff2') format('woff2'),
+  url('/fonts/Graphik-Medium-Cy-Web.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik Arabic Web';
+  src: url('/fonts/GraphikArabic-Light-Web.woff2')
+  format('woff2'),
+  url('/fonts/GraphikArabic-Light-Web.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik Arabic Web';
+  src: url('/fonts/GraphikArabic-Regular-Web.woff2')
+  format('woff2'),
+  url('/fonts/GraphikArabic-Regular-Web.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik Arabic Web';
+  src: url('/fonts/GraphikArabic-Medium-Web.woff2')
+  format('woff2'),
+  url('/fonts/GraphikArabic-Medium-Web.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik Hebrew Web';
+  src: url('/fonts/GraphikHebrew-Light-Web.woff2')
+  format('woff2'),
+  url('/fonts/GraphikHebrew-Light-Web.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik Hebrew Web';
+  src: url('/fonts/GraphikHebrew-Regular-Web.woff2')
+  format('woff2'),
+  url('/fonts/GraphikHebrew-Regular-Web.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik Hebrew Web';
+  src: url('/fonts/GraphikHebrew-Medium-Web.woff2')
+  format('woff2'),
+  url('/fonts/GraphikHebrew-Medium-Web.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik TH Web';
+  src: url('/fonts/GraphikThai-Light-Web.woff2') format('woff2'),
+  url('/fonts/GraphikThai-Light-Web.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik TH Web';
+  src: url('/fonts/GraphikThai-Regular-Web.woff2')
+  format('woff2'),
+  url('/fonts/GraphikThai-Regular-Web.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graphik TH Web';
+  src: url('/fonts/GraphikThai-Medium-Web.woff2') format('woff2'),
+  url('/fonts/GraphikThai-Medium-Web.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+/* IBM */
+
 @font-face {
   font-family: 'IBM Plex Sans';
   font-weight: 100 900;

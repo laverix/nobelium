@@ -1,5 +1,5 @@
 exports.FONTS_SANS = [
-  '"IBM Plex Sans"',
+  '"Graphik Web"',
   'ui-sans-serif',
   'system-ui',
   '-apple-system',
